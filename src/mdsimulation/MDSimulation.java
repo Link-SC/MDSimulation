@@ -16,7 +16,7 @@ public class MDSimulation {
                 double vy = StdIn.readDouble();
                 
                 double radius = StdIn.readDouble();
-                double mass = StdIn.readInt();
+                double mass = StdIn.readDouble();
                 int r = StdIn.readInt();
                 int g = StdIn.readInt();
                 int b = StdIn.readInt();
